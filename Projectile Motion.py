@@ -116,13 +116,3 @@ while True:
 
 
         
-
-
-
-u=eval(input("Enter initial velocity:"))
-o=eval(input("Enter angle thrown:"))
-t=eval(input("Enter time of flight:"))
-R=eval(input("Enter range:"))
-
-h=eval(input("Enter maximum height:"))
-
